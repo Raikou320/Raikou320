@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JS and TS
 - 😄 Pronouns: ... Raykou trois-cent-vingt
 - ⚡ Fun fact: I created a website in French for creating e-cards check it out: [Cardify](https://raikou320.github.io/Cardify "My e-cards website")
-- 
+- My projects
+  - [Super Platform 1](https://raikou320.github.io/super-platform-1 "My own platformer gamme in french")
 
 <!---
 Raikou320/Raikou320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
