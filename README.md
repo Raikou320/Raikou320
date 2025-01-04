@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Raikou320 a french developper
-- 👀 I’m interested in Html, Css, Js, Python
-- 🌱 I’m currently learning Js, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have created a farm game look at him
+- 👋 Hi, I’m Raikou320 a French developer
+- 👀 I’m interested in HTML, CSS, JS, Python and TS
+- 🌱 I’m currently learning JS and TS
+- 😄 Pronouns: ... Raykou trois-cent-vingt
+- ⚡ Fun fact: I created a website in French for creating e-cards check it out: [Cardify](https://raikou320.github.io/Cardify "My e-cards website")
+- 
 
 <!---
 Raikou320/Raikou320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
