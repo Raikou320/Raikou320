@@ -4,7 +4,7 @@
 - 😄 Pronouns: ... Raykou trois-cent-vingt
 - ⚡ Fun fact: I created a website in French for creating e-cards check it out: [Cardify](https://raikou320.github.io/Cardify "My e-cards website")
 - My projects
-  - [Super Platform 1](https://raikou320.github.io/super-platform-1 "My own platformer gamme in french")
+  - [2024 Final](https://raikou320.github.io/2024-final "Simple Platformer In French")
 
 <!---
 Raikou320/Raikou320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
